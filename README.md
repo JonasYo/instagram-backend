@@ -4,7 +4,7 @@ Projeto desenvolvido na semana OmniStack 7 da Rocketseat utilizando NodeJS e Mon
 
 ## Objetivos
 
-Os objetos deste projeto são:
+Os objetivos deste projeto são:
 
 Introduzir os conceitos básicos do NodeJS.
 Utilizar o NPM, Express, Routes, Axios e Socket IO (Web Socket).
@@ -26,6 +26,8 @@ npm install
 
 ![Image01](other_files/screenshot_service.PNG) 
 
+## Contribuições
+Pull requests são bem-vindos.
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
