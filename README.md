@@ -1,5 +1,7 @@
 # Instagram Backend
 
+![Image01](other_files/screenshot_service.PNG) 
+
 Projeto desenvolvido na semana OmniStack 7 da Rocketseat utilizando NodeJS e MongoDB.
 
 ## Objetivos
@@ -23,8 +25,6 @@ cd instagram-backend
 # Instale as dependências NPM
 npm install
 ```
-
-![Image01](other_files/screenshot_service.PNG) 
 
 ## Contribuições
 Pull requests são bem-vindos.
